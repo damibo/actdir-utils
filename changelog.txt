@@ -1,0 +1,8 @@
+2015-02-03 09:49:57 +0100 - Inicio el proyecto en github/damibo/actdir-utils
+2015-02-03 09:50:18 +0100 - Hago un git clone en local y cambio el nombre de repositorio remoto origin a github con los siguientes comandos:
+
+	git remote add github https://github.com/damibo/actdir-utils
+	git remote rm origin
+	git remote add origin ssh://gitrepo@10.42.65.27/home/gitrepo/actdir-utils
+
+
